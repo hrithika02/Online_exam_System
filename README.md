@@ -1,3 +1,3 @@
-# Repository Layer
+# Service Layer
 
-Implemented Spring Data JPA repositories to perform CRUD operations and database access.
+Implemented the business logic for user management, exams, questions, and result processing.
