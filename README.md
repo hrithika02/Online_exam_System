@@ -1,3 +1,3 @@
-# Backend Project Setup
+# Repository Layer
 
-Initialized the Spring Boot backend with Maven, required dependencies, and project configuration for the Online Exam System.
+Implemented Spring Data JPA repositories to perform CRUD operations and database access.
